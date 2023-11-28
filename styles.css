@@ -47,7 +47,7 @@
 .card img {
     height: 100%;
     width: 100%;
-    filter: grayscale(100%);
+    /* filter: grayscale(100%); */
     box-shadow: 0 0 20px #333;
     object-fit: cover;
 }
